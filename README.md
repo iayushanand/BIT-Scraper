@@ -21,7 +21,7 @@ All scraped HTML is saved to `html/` for offline re-parsing. The final output is
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/bit-scraper.git
+git clone https://github.com/iayushanand/bit-scraper.git
 cd bit-scraper
 ```
 
